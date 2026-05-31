@@ -2,6 +2,8 @@
 
 An educational Python project demonstrating core image processing techniques. These exercises were completed as part of a tutorial attended during **PyCon 2026**.
 
+See original tutorial here - https://arielortiz.info/pycon2026/
+
 ## Features
 
 This project implements seven image manipulation techniques using Python and the Pillow (PIL) library:
